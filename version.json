@@ -1,0 +1,7 @@
+{
+ "versionCode": 3,
+ "versionName": "1.1.1",
+ "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.1/archangel-quis-ut-deus-release.apk",
+ "sha256": "97437ceb70159cd53d72cd45137abcadcd530eb7934cf59e422bb8605028fffc",
+ "notes": "1.1.1\n\u2022 Targets Android 15 (API 35) with edge-to-edge safe areas\n\u2022 In-app updater (verifies SHA-256 + signing key)\n\u2022 Real threat map, LAN honeypot, per-app network usage, storage care & SD speed test\n\u2022 3,825 known Android malware hashes"
+}
