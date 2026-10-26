@@ -1,7 +1,7 @@
 {
- "versionCode": 3,
- "versionName": "1.1.1",
- "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.1/archangel-quis-ut-deus-release.apk",
- "sha256": "97437ceb70159cd53d72cd45137abcadcd530eb7934cf59e422bb8605028fffc",
- "notes": "1.1.1\n\u2022 Targets Android 15 (API 35) with edge-to-edge safe areas\n\u2022 In-app updater (verifies SHA-256 + signing key)\n\u2022 Real threat map, LAN honeypot, per-app network usage, storage care & SD speed test\n\u2022 3,825 known Android malware hashes"
+ "versionCode": 4,
+ "versionName": "1.1.2",
+ "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.2/archangel-quis-ut-deus-release.apk",
+ "sha256": "9055865c64476ca1383e3fe980681bf4d0a1bf42821fff44682fe79d7641bd72",
+ "notes": "1.1.2\n\u2022 Calm new Home with one-tap \u201cLock it down now\u201d\n\u2022 App permission spyware-risk scanner\n\u2022 Wi-Fi safety check\n\u2022 Phone cleanup\n\u2022 Scheduled daily/weekly scans with alerts\n\u2022 Link checker with offline phishing list + Share to Archangel\n\u2022 Smarter Michael chat that can run actions"
 }
