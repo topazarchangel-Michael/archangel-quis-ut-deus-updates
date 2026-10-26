@@ -1,7 +1,7 @@
 {
- "versionCode": 5,
- "versionName": "1.1.3",
- "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.3/archangel-quis-ut-deus-release.apk",
- "sha256": "22938429b4f50450da93d583a1426f5ca30cc5664498807fe774110cc7fff6ad",
- "notes": "1.1.3 \u2014 simulations replaced with real checks\n\u2022 Phone repair sweep: real cache clear, storage, battery, junk-app patterns, settings shortcuts\n\u2022 Antivirus / Anti-spyware / Malware: real scans of installed apps (incl. split APKs) with live progress\n\u2022 Firewall: live per-app traffic for blocked vs allowed apps; fake animation removed\n\u2022 SD care: removable-card detection, write/read/verify health check\n\u2022 Vulnerability scan: real device posture (lock, encryption, patch age, unknown sources, USB debugging, root signals)\n\u2022 Memory: real RAM stats instead of the simulated map"
+ "versionCode": 6,
+ "versionName": "1.1.4",
+ "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.4/archangel-quis-ut-deus-release.apk",
+ "sha256": "a2e7803019dec43ea0ac27b466535669df32420dd6dc0c58f0d242231f59b414",
+ "notes": "1.1.4 \u2014 remaining simulations made real or removed\n\u2022 Firewall: real DNS shield (ads/trackers, phishing, your blocklist, blocked apps) with live lookup log; port-rules notebook removed\n\u2022 Malware DB: +MVT spyware indicators (hashes, package names, signing certificates)\n\u2022 Posture: Play services / Play Store / Play system update versions, USB-install scanning\n\u2022 Defence score, Studio, threat map and forecast use real data only\n\u2022 Attack trainer and fake quantum keys removed; real crypto self-test added"
 }
