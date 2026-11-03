@@ -1,7 +1,7 @@
 {
- "versionCode": 7,
- "versionName": "1.1.5",
- "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.5/archangel-quis-ut-deus-release.apk",
- "sha256": "bb166720de399e822abbe80ef8bf50113cfc3d2cfa66cf14c7795bf4902ade14",
- "notes": "1.1.5 \u2014 Security AI upgrade\n\u2022 New Security AI page: 8 Ultra Intelligence agents under Michael (Spyware Watch, Network & DNS Guard, Permission Risk, Scam-Link Guard, Vault & Crypto, Update & Patch, Monitoring, De-Bugging) using real checks and real actions\n\u2022 Michael chat: \u201crun all agents\u201d, \u201cturn on DNS shield\u201d, \u201cspyware check\u201d, \u201cpatch status\u201d\n\u2022 Home shows DNS shield; Lock it down reports it; Studio has agents + DNS widgets\n\u2022 Fixes: chat prompt-guard crash, scan results now update Home/Studio, stale counts"
+ "versionCode": 8,
+ "versionName": "1.1.6",
+ "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.6/archangel-quis-ut-deus-release.apk",
+ "sha256": "927b0fc72347b86029aea735fe3cc09f7384d5f33f0bf334719f4155d83114bc",
+ "notes": "1.1.6 \u2014 Themes, angelic art & new real tools\n\u2022 7 themes with saved picker: Archangel gold, Heavenly gold/white, Midnight, Emerald, Crimson, Violet, Rose dawn\n\u2022 New Archangel artwork: Studio, Security AI council, Michael portrait, Settings sanctuary\n\u2022 Password breach & strength check (k-anonymity) + Password Guardian agent\n\u2022 Link checker: Check clipboard\n\u2022 Opt-in Daily patrol: all Security AI agents once a day"
 }
