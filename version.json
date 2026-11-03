@@ -1,7 +1,7 @@
 {
- "versionCode": 8,
- "versionName": "1.1.6",
- "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.6/archangel-quis-ut-deus-release.apk",
- "sha256": "927b0fc72347b86029aea735fe3cc09f7384d5f33f0bf334719f4155d83114bc",
- "notes": "1.1.6 \u2014 Themes, angelic art & new real tools\n\u2022 7 themes with saved picker: Archangel gold, Heavenly gold/white, Midnight, Emerald, Crimson, Violet, Rose dawn\n\u2022 New Archangel artwork: Studio, Security AI council, Michael portrait, Settings sanctuary\n\u2022 Password breach & strength check (k-anonymity) + Password Guardian agent\n\u2022 Link checker: Check clipboard\n\u2022 Opt-in Daily patrol: all Security AI agents once a day"
+  "versionCode": 9,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.7/archangel-quis-ut-deus-release.apk",
+  "sha256": "040d7a2b66994cfedb64e68ef116cab645fe40f34281967082aecff8c8a36d64",
+  "notes": "12 new Archangel art screens, refined Heavenly theme, Who's Watching (accessibility, notification listeners, device admins), install sources & App Ops, battery exemption, opt-in clipboard scam-link check, biometric Vault gate."
 }
