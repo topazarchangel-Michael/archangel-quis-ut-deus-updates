@@ -1,7 +1,7 @@
 {
- "versionCode": 6,
- "versionName": "1.1.4",
- "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.4/archangel-quis-ut-deus-release.apk",
- "sha256": "a2e7803019dec43ea0ac27b466535669df32420dd6dc0c58f0d242231f59b414",
- "notes": "1.1.4 \u2014 remaining simulations made real or removed\n\u2022 Firewall: real DNS shield (ads/trackers, phishing, your blocklist, blocked apps) with live lookup log; port-rules notebook removed\n\u2022 Malware DB: +MVT spyware indicators (hashes, package names, signing certificates)\n\u2022 Posture: Play services / Play Store / Play system update versions, USB-install scanning\n\u2022 Defence score, Studio, threat map and forecast use real data only\n\u2022 Attack trainer and fake quantum keys removed; real crypto self-test added"
+ "versionCode": 7,
+ "versionName": "1.1.5",
+ "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.5/archangel-quis-ut-deus-release.apk",
+ "sha256": "bb166720de399e822abbe80ef8bf50113cfc3d2cfa66cf14c7795bf4902ade14",
+ "notes": "1.1.5 \u2014 Security AI upgrade\n\u2022 New Security AI page: 8 Ultra Intelligence agents under Michael (Spyware Watch, Network & DNS Guard, Permission Risk, Scam-Link Guard, Vault & Crypto, Update & Patch, Monitoring, De-Bugging) using real checks and real actions\n\u2022 Michael chat: \u201crun all agents\u201d, \u201cturn on DNS shield\u201d, \u201cspyware check\u201d, \u201cpatch status\u201d\n\u2022 Home shows DNS shield; Lock it down reports it; Studio has agents + DNS widgets\n\u2022 Fixes: chat prompt-guard crash, scan results now update Home/Studio, stale counts"
 }
