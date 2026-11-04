@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.7/archangel-quis-ut-deus-release.apk",
-  "sha256": "040d7a2b66994cfedb64e68ef116cab645fe40f34281967082aecff8c8a36d64",
-  "notes": "12 new Archangel art screens, refined Heavenly theme, Who's Watching (accessibility, notification listeners, device admins), install sources & App Ops, battery exemption, opt-in clipboard scam-link check, biometric Vault gate."
+  "versionCode": 10,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/topazarchangel-Michael/archangel-quis-ut-deus-updates/releases/download/v1.1.8/archangel-quis-ut-deus-release.apk",
+  "sha256": "3b646a0ae22ba9099c5a5f7c6136e9204d39f3d7ffe694b97569a9922a53e48f",
+  "notes": "Scam Text Checker, Emergency lock-down profile, shareable security report, online AI presets with offline fallback, updater Later/Skip, Heavenly theme polish."
 }
